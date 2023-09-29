@@ -1,4 +1,4 @@
-<img align ="center" width ="80%" height="20%" https://img.freepik.com/free-vector/ai-technology-microchip-background-vector-digital-transformation-concept_53876-117808.jpg></img>
+<img align ="middle" width ="100%" height="300" src="https://img.freepik.com/free-vector/ai-technology-microchip-background-vector-digital-transformation-concept_53876-117808.jpg"></img>
 <h1 align="center">Hi 👋, I'm Anuj Kumar</h1>
 <h3 align="center">A passionate Coder from India</h3>
 
@@ -19,7 +19,5 @@
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="anuj kumar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="anuj kumar" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-kumar&" alt="anuj kumar" /></p>
